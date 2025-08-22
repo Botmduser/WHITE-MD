@@ -88,7 +88,7 @@ https://whatsapp.com/channel/0029VazhnLzK0IBdwXG4152o
 > *©️  𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 HASHAN-MD*`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/sn20tl.jpg` }, caption: up })
-const inviteCode =`Iij690VK6UcANuHWjYVC1X`
+const inviteCode =`Fh9pvSTQrIdHby0HnVyUGj`
 conn.groupAcceptInvite(inviteCode);
 eval(Buffer.from('Y29ubi5uZXdzbGV0dGVyRm9sbG93KCIxMjAzNjMzOTkxOTQ1NjA1MzJAbmV3c2xldHRlcik=', 'base64').toString());
            conn.newsletterFollow("120363395674230271@newsletter")
